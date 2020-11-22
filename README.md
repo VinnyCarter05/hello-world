@@ -1,3 +1,5 @@
 # hello-world
 
-I am learning AI.
+Trial repository
+
+change 2 trial
